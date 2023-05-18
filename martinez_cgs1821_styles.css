@@ -1,0 +1,28 @@
+body{
+	background-color: #fffff0;
+	font-family: ariel, verdana, sans-serif;;
+	font-size: 18px;
+}
+a:link{
+	background-color: #fffff0;
+	font-family: ariel, verdana, sans-serif;;
+	font-size: 18px;
+	color :#483d8b; 
+}
+a:hover  {   
+	background-color: #fffff0;
+	font-family: ariel, verdana, sans-serif;
+	font-size: 18px;
+	color: #a52a2a; 
+ }   
+h1, h2, h3{
+		background-color: #fffff0;
+		font-family: ariel, verdana, sans-serif;
+		font-size: 18px;
+		color: orange; 
+	}
+	hr {color: #00aa00;
+		background-color: #aa0000;
+		width: 90%;
+		height:  2px
+	}
